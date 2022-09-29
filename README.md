@@ -1,4 +1,5 @@
-# kidney-diseases-detection
+# A Detection and Prediction Model Based on Deep Learning Assisted by Explainable Artificial Intelligence for Kidney Diseases
+
 
 Kidney diseases are one of the most common diseases worldwide and cause unbearable pain in most people. In this study aims to
 detecting the cyst and stone in the kidney. For the this purpose, YOLO architecture designs were used for detection of kidney, kidney
